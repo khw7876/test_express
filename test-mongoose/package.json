@@ -1,5 +1,5 @@
 {
-  "name": "test-express",
+  "name": "test-mongoose",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,5 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
-  },
-  "devDependencies": {
-    "express-session": "^1.17.3"
   }
 }
